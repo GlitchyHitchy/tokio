@@ -1,6 +1,6 @@
-# tokiyo
+# tokiyo-A gps tracking app,knn
 
-A new Flutter application.
+This module will mainly consist of the gps tracking part .Tokiyo will help us to get locations ,track locations and surprise the shortest path algo knn we are gonna grab that in.
 
 ## Getting Started
 
